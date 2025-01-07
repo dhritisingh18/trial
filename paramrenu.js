@@ -1,5 +1,5 @@
 const name  = ()=>{
-    return "Param Renu Singh";
+    return "Paramjeet Renu Singh";
 }
 
 
